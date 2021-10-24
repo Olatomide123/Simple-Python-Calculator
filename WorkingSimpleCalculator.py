@@ -1,5 +1,7 @@
 from Tkinter import *
 
+# comment
+
 root = Tk()
 # To define the size (width and height of the calculator)
 root.geometry("354x460")
